@@ -1,7 +1,6 @@
 //-------------------------------------------------------------
-// Assignment 1
 // © ANURAG AGARWAL
-// Written by: ANURAG AGARWAL 40232644
+// Written by: ANURAG AGARWAL
 //-------------------------------------------------------------
 
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-# COMP6481
+# JAVA-Problem
 Programming and Problem Solving in Java<br>
 
 
