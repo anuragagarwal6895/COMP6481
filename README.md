@@ -1,9 +1,8 @@
 # COMP6481
-COMP 6481: Programming and Problem Solving - Fall 2022<br>
-
-(Programming in JAVA)
+Programming and Problem Solving in Java<br>
 
 
-Assignment 1 - Voter Application <br>
 
-Assignment 2 - Cricket Tournament
+Problem 1 - Voter Application <br>
+
+Problem 2 - Cricket Tournament
